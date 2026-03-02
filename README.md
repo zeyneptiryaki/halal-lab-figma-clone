@@ -3,7 +3,8 @@
 A website clone of the Halal Lab design created from Figma.
 
 # 📸 Preview 
-(picture/project-preview.png)
+
+![Project Screenshot](preview/screenshot.png)
 
 ## 🚀 Technologies Used
 - HTML5
